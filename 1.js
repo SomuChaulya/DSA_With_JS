@@ -15,4 +15,4 @@ function twoSum(nums, target) {
 }
 
 // Example usage:
-console.log(twoSum([11, 7, 3], 9)); // Output: [1, 2]
+console.log(twoSum([11, 7, 2], 9)); // Output: [1, 2]
